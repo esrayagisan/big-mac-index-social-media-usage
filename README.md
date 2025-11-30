@@ -69,9 +69,4 @@ patterns across development indicators, accounting for missing data and
 dataset bias using normalization techniques.
 
 
-Both datasets will be merged using country names as the common key.
 
-## Expected Results
-- It is expected that economically stronger countries tend to have higher social media usage rates.  
-- However, some middle-income countries may also show high social media penetration.  
-- The results may reveal that digital engagement is not solely determined by economic wealth.
