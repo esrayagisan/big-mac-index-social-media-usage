@@ -1,8 +1,6 @@
 # development-level-social-media-usage
 DSA210 Term Project Repo
 
-# Relationship Between Big Mac Index and Social Media Usage
-
 # Social Media Usage & Development Indicators Analysis
 
 ## Project Summary
