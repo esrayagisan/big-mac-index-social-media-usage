@@ -47,8 +47,10 @@ Z‑score was computed relative to the Worldwide usage value:
 
 ## Correlation & Hypothesis Testing
 
-Pearson and Spearman correlations were computed between: - Each social
-media platform (Z‑score adjusted) - Each development indicator
+Pearson and Spearman correlations were computed between: 
+- Each social
+media platform (Z‑score adjusted)
+- Each development indicator
 
 Significant relationships were identified using **p \< 0.05**.
 
