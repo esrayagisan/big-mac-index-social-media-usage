@@ -23,7 +23,8 @@ Social media is one of the most influential tools for communication and informat
 ## Datasets
 
 -   `monthly_time_spend_by_country.csv`: This dataset is obtained from Datareportal's Instagram, X, Tiktok, LinkedIn, Pinterest Users, Stats, Data & Trends for 2025. I couldn't find the actual dataset so I used the graphs that show monthly time spend data for top 50 countries. I used GenAI to convert these graphs to a merged data table.
-https://drive.google.com/file/d/1XVIsLcXXbefWaH4NlXZDJHGTI9uUGbAo/view?usp=sharing
+Graphs: https://drive.google.com/drive/folders/11Oza-q2oY5u7eKO9wnQlAcZHpx14U2ee?usp=sharing
+Extracted dataset: https://drive.google.com/file/d/1XVIsLcXXbefWaH4NlXZDJHGTI9uUGbAo/view?usp=sharing
 
 -   `android_phone_use_by_country.csv`: https://gs.statcounter.com/os-market-share/mobile/worldwide/#quarterly-202404-202404-map
 https://drive.google.com/file/d/1Nfg3OeY6cbPBhYDJtB8w0S1-4T789Dl1/view?usp=sharing
